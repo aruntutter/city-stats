@@ -60,6 +60,8 @@ button:hover {
 
 #result {
   color: white;
-  margin-top: 70px;
-  font-size: 32px;
+  margin-top: 40px;
+  font-size: 27px;
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
