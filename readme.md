@@ -9,9 +9,9 @@
 
 ### Links
 
-- Solution URL: [here]()
-- Live Site URL: [here]()
-- Live Site URL: [here]()
+- Solution URL: [here](https://github.com/aruntutter/city-stats)
+- Live Site URL: [here](https://aruntutter.github.io/city-stats/)
+- Live Site URL: [here](https://visionary-daifuku-a1148f.netlify.app)
 
 ## My process
 
