@@ -1,27 +1,43 @@
 ## City Stats
 
-## Table of contents
+This project is a simple web application that allows users to select a city and display its population, language spoken, and literacy rate. The application is built using HTML, CSS, and JavaScript.
+
+### Table of contents
 
 - [Links](#links)
-- [My process](#my-process)
-- [Built with](#built-with)
-- [What I learned](#what-i-learned)
+- [Description](#description)
+- [Demo](#demo)
+- [Features](#features)
+- [Usage](#ssage)
+- [Contributing](#contributing)
 
-### Links
+## Links
 
 - Solution URL: [here](https://github.com/aruntutter/city-stats)
-- Live Site URL: [here](https://aruntutter.github.io/city-stats/)
-- Live Site URL: [here](https://visionary-daifuku-a1148f.netlify.app)
+- Live Demo: [here](https://aruntutter.github.io/city-stats/)
 
-## My process
+### Description
 
-### Built with
+The City Stats application provides users with a dropdown menu to select a city from a predefined list. Upon selecting a city and clicking the "Show stats" button, the application retrieves the population, language spoken, and literacy rate for the chosen city from a JavaScript function. It then dynamically updates the page to display the retrieved information.
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flex box
-- java Script
+## Demo
 
-### What I learned
+You can see a live demo of the application [here](https://visionary-daifuku-a1148f.netlify.app/).
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+### Features
+
+- User-friendly interface with a dropdown menu for city selection.
+- Dynamic updating of information based on the selected city.
+- Predefined data for four cities: Bengaluru, Chennai, Delhi, and Mumbai.
+- Responsive design for optimal viewing on different devices.
+
+### Usage
+
+1. Open the application in your web browser.
+2. Select a city from the dropdown menu.
+3. Click the "Show stats" button.
+4. The application will display the population, language spoken, and literacy rate for the selected city.
+
+### Contributing
+
+Contributions to this project are welcome. If you have any suggestions or improvements, please open an issue or submit a pull request.
